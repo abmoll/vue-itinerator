@@ -1,7 +1,7 @@
 <template>
   <div class="q-pa-md row items-start q-gutter-md">
     <q-card class="my-card">
-      <q-card-section class="bg-green-4 text-white">
+      <q-card-section class="bg-green-10 text-white">
         <div class="text-subtitle2">Places</div>
       </q-card-section>
 
@@ -29,7 +29,7 @@
     </q-card>
 
     <q-card class="my-card">
-      <q-card-section class="bg-green-6 text-white">
+      <q-card-section class="bg-green-8 text-white">
         <div class="text-subtitle2">Events</div>
       </q-card-section>
 
@@ -55,7 +55,7 @@
     </q-card>
 
     <q-card class="my-card">
-      <q-card-section class="bg-green-8 text-white">
+      <q-card-section class="bg-green-6 text-white">
         <div class="text-subtitle2">Trails</div>
       </q-card-section>
       <q-card-actions vertical class="bg-amber-1" align="around">
